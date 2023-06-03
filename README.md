@@ -5,7 +5,7 @@ Developed using Kotlin and Jetpack Compose in Android Studio 2022
 ## Introductory Video
 
 
-https://github.com/naumanbutt2002/Little_Lemon_App/assets/86490074/eba898b4-c0b4-47b5-9cc8-54acf26c4dd2
+https://github.com/naumanbutt2002/Little_Lemon_App/assets/86490074/56cadf2b-1652-4cc5-a2f0-9b4e353f3f52
 
 
 ## Installation Guide
