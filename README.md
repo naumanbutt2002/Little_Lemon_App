@@ -13,7 +13,7 @@ https://github.com/naumanbutt2002/Little_Lemon_App/assets/86490074/56cadf2b-1652
 Use the git manager [gitbash](https://pip.pypa.io/en/stable/) to install Little Lemon App.
 
 ```bash
-git clone https://github.com/gulraiznoorbari/Little_Lemon_App.git
+git clone https://github.com/naumanbutt2002/Little_Lemon_App.git
 cd Little_Lemon_App
 ```
 => Then open the project in Android Studio and Build a APK
